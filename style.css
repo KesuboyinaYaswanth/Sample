@@ -13,9 +13,6 @@ header {
     color: white;
     text-align: center;
     padding: 1em;
-    h1 {
-    font-family: 'captainamerican', sans-serif;
-    }
 }
 nav ul {
     list-style: none;
