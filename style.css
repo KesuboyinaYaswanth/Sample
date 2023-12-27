@@ -1,6 +1,6 @@
 @font-face {
     font-family: 'captainamerican'; /* Choose a name for your font */
-    src: url('American Captain.ttf') format('ttf'); /* Specify the path and format of your font file */
+    src:url('American Captain.ttf'); /* Specify the path and format of your font file */
 }
 
 body {
@@ -14,7 +14,9 @@ header {
     color: white;
     text-align: center;
     padding: 1em;
+    h1 {
     font-family: 'captainamerican', sans-serif;
+    }
 }
 nav ul {
     list-style: none;
