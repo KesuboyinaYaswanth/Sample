@@ -4,10 +4,7 @@
 }
 
 body {
-    font-family: 'American Captain.ttf', sans-serif; /* Use your custom font as the preferred font, with a fallback to a generic sans-serif font */
-}
-body {
-    font-family: 'American Captain.ttf', sans-serif;
+    font-family: 'captainamerican', sans-serif; /* Use your custom font as the preferred font, with a fallback to a generic sans-serif font */
     margin: 0;
     padding: 0;
 }
