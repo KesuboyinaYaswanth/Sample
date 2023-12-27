@@ -3,8 +3,7 @@
     src:url('American Captain.ttf'); /* Specify the path and format of your font file */
 }
 
-body {
-    font-family: 'captainamerican', sans-serif; /* Use your custom font as the preferred font, with a fallback to a generic sans-serif font */
+body { /* Use your custom font as the preferred font, with a fallback to a generic sans-serif font */
     margin: 0;
     padding: 0;
 }
