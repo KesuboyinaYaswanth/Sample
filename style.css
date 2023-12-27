@@ -1,5 +1,13 @@
+@font-face {
+    font-family: 'captainamerican'; /* Choose a name for your font */
+    src: url('American Captain.ttf') format('ttf'); /* Specify the path and format of your font file */
+}
+
 body {
-    font-family: Arial, sans-serif;
+    font-family: 'American Captain.ttf', sans-serif; /* Use your custom font as the preferred font, with a fallback to a generic sans-serif font */
+}
+body {
+    font-family: 'American Captain.ttf', sans-serif;
     margin: 0;
     padding: 0;
 }
